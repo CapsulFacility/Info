@@ -6,7 +6,7 @@ or also you can see the developers repositories.
 
 ## Support
 
-For support, email: mrcatvividzap@outlook.com or server Discord ().
+For support, email: mrcatvividzap@outlook.com  or server Discord ().
 
 
 ## Owners:
