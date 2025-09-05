@@ -9,9 +9,10 @@ or also you can see the developers repositories.
 For support, email: mrcatvividzap@outlook.com or server Discord ().
 
 
-## Authors:
+## Owners:
 
 - [@MRCAT9898](https://www.github.com/MRCAT9898)
+- [@VividZAP](https://github.com/VividZap)
 
 ## License
 
